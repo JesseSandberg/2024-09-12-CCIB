@@ -1,2 +1,3 @@
 Are you an experimental student who wants to break their dependence on excel for plotting? Are you a new student rotating in a computational lab? This workshop is designed to cover the basics of programming in Python, with a special emphasis on manipulating data and plotting. Over the course of 8 hours (spread across two days) we will cover how to use a Jupyter notebook, variables and assignment, data types and type conversion, built-in functions and how to get help, libraries (numpy, pandas, and matplotlib), data manipulation, and plotting. This workshop is led by Software Carpentries certified CCIB student instructors.
 
+https://jessesandberg.github.io/2024-09-12-CCIB/
